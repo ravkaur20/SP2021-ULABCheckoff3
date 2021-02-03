@@ -1,0 +1,1 @@
+The command git remote connects you to other repositories where you can share work with other people, and upload/download stuff from. It lets you create connections, view repositories, and delete connections. 
